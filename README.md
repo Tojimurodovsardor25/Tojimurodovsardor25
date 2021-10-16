@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tojimuradovsardor25@gmail.com**
 <h1 align="center">FUN FACT</h1>
-- ⚡*The only thing that calms the human brain is physical work, not
+- ⚡ The only thing that calms the human brain is physical work, not
  watching TV or phone :)
 
 
