@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Sardor, I am a future web programmer, now I am a student at Change It Academy, I know HTML, CSS, Handlebars, Json server, MongoDB, Figma, nodeJS, Photoshop, express, Pug, Java scripts, GetBootsrap, Rest Api, Github other. ... in the future I want to learn a lot of programming languages. Sardor </h1>
+<h1 align="center">Hi, my name is Sardor, I am a future web programmer, now I am a student at Change It Academy, I know HTML, CSS, Handlebars, Json server, MongoDB, Figma, nodeJS, Photoshop, express, Pug, Java scripts, GetBootsrap, Rest Api, Github other. ... in the future I want to learn a lot of programming languages.</h1>
 <h3 align = "center"> Future web programmer in Uzbekistan</h3>
 
 - 🌱 I’m currently learning **MongoDB,Crud**
