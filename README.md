@@ -1,4 +1,4 @@
-<h3 align="center">Hi, my name is Sardor, I am a future web programmer, now I am a student at Change It Academy, I know HTML, Handlebars, PS, Github, CSS, Java scripts, getBootstrap, Crud, MERN, Api, Reactjs, JQuery :), Github other... in the future I want to learn a lot of programming languages.</h5>
+<h3 align="center">Hi, my name is Sardor, I am a future web programmer, now I am a student at Change It Academy, I know HTML, Handlebars, PS, Github, CSS, Java scripts, getBootstrap, Crud, MERN, Api, JQuery :), Github other... in the future I want to learn a lot of programming languages.</h5>
 <h3 align = "center"> Future web programmer in Uzbekistan</h3>
 
 - 🌱 I’m currently learning **MongoDB,Crud**
